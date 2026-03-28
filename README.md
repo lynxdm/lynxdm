@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Software Engineer</h3>
 
 <p align="center">
-  Full-stack developer with 3+ years of experience specializing in the JavaScript and TypeScript ecosystems. 
+  Full-stack developer specializing in the JavaScript and TypeScript ecosystems. 
   Focused on architecting scalable backend solutions and developing high-performance, accessible user interfaces.
 </p>
 
