@@ -21,18 +21,6 @@
 
 ---
 
-### Activity & Statistics
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=lynxdm&show_icons=true&theme=distinguished" alt="GitHub Stats" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lynxdm&theme=distinguished" alt="GitHub Streak" />
-</p>
-
----
-
 ### Contact & Collaboration
 I am open to discussing full-stack architecture, performance optimization, and creative web development.
 
