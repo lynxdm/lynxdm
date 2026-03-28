@@ -13,10 +13,9 @@
 | Category | Stack |
 | :--- | :--- |
 | **Languages** | JavaScript, TypeScript, PHP, SQL |
-| **Frameworks & Libraries** | React.js, Next.js, Express.js, GraphQL, REST, Tailwind CSS, Sass |
-| **Databases & Storage** | MySQL, MongoDB, Redis, Supabase, Vector DB, Firebase, Prisma, Sequelize |
-| **Tools & Platforms** | Docker, Jenkins, Git, AWS (EC2, S3), Nginx |
-| **Testing & Performance** | Jest, React Query, Performance Optimization, Accessibility Standards |
+| **Frameworks & Libraries** | React.js, Next.js, Nest.js, Express.js |
+| **Databases & Storage** | MySQL, MongoDB, Redis, Vector DB, PostgreSQL |
+| **Tools & Platforms** | Docker, Jenkins, Git, AWS, Nginx |
 | **Creative Development** | Framer Motion, GSAP, Three.js |
 
 ---
