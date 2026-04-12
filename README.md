@@ -24,4 +24,3 @@
 I am open to discussing full-stack architecture, performance optimization, and creative web development.
 
 - Email: lynxdev32@gmail.com
-- GitHub: [github.com/lynxdm](https://github.com/lynxdm)
